@@ -1,0 +1,16 @@
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\SaglikUrunleri.Entity.dll.config
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\SaglikUrunleri.Entity.dll
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\SaglikUrunleri.Entity.pdb
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\obj\Debug\SaglikUrunleri.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\obj\Debug\SaglikUrunleri.Entity.csproj.CopyComplete
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\obj\Debug\SaglikUrunleri.Entity.dll
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\obj\Debug\SaglikUrunleri.Entity.pdb
+C:\Users\Section1\source\repos\eTicaret.SaglikUrunleri\SaglikUrunleri.Entity\obj\Debug\SaglikUrunleri.Entity.csprojAssemblyReference.cache

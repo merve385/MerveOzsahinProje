@@ -1,0 +1,52 @@
+﻿@model SaglikUrunleri.Entity.Entity.Urun
+
+@{
+    ViewBag.Title = "UrunDetay";
+    Layout = "~/Views/Shared/_SaglikLayout.cshtml";
+
+}
+@*.row.masonry-grid-fitrows.grid-space-20>.col-md-6.masonry-grid-item+.col-md-6>.card>.card-header+.card-body*@
+<h2>Ürün Detay</h2>
+<div class="row masonry-grid-fitrows grid-space-20">
+    <div class="col-md-6 masonry-grid-item">  <img src="@Model.urunResimYolu1" alt="Alternate Text" /></div>
+
+    <div class="col-md-6 masonry-grid-item">
+        <div class="card">
+            <div class="card-header">
+                <h3>@Model.urunAd</h3>
+            </div>
+            <div class="card-header">
+                <h3>Ürün Detayları</h3>
+            </div>
+            <div class="card-body">
+                <table>
+                    <tr>
+                        <td style="color:coral">Ürün Adı:</td>
+                        <td style="font-size:initial;color:black">@Html.DisplayFor(x => x.urunAd)</td>
+                    </tr>
+                  
+                    <tr>
+                        <td style="color:coral">Ürün Fiyat:</td>
+                        <td  style="font-size:initial;color:black">@Html.DisplayFor(x => x.urunFiyat)</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="color:coral">Ürün Kodu:</td>
+                        <td  style="font-size:initial;color:black">@Html.DisplayFor(x => x.urunKodu)</td>
+                    </tr>
+                    
+                    <tr>
+                        <td style="color:coral">Ürün Bilgisi:</td>
+                        <td  style="font-size:initial;color:black">@Html.DisplayFor(x => x.urunBilgisi)</td>
+                    </tr>
+                   
+                </table>
+                @*<div>Ürün Adı</div>
+                <div>@Html.DisplayFor(x=>x.urunAd)</div>*@
+
+
+            </div>
+        </div>
+    </div>
+   
+</div>

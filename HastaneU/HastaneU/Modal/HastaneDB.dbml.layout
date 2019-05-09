@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 20" name="HastaneU">
+  <DataContextMoniker Name="/HastaneUDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f75759c6-fa4f-4b01-8043-9d5dec3839a6" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/HastaneUDataContext/PatoVeriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="09a2fc8f-2a2f-4a36-96d6-eed1f4a587f4" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b907a75-a6f9-4d3b-95d8-4a86bba9f8f7" absoluteBounds="3.5, 11.625, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/HastaneUDataContext/tblDemog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb81a08a-d20a-4b91-8978-bae1d353267d" absoluteBounds="3.515, 12.085, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8ff6dd3-2d99-4256-a78d-773ab2c4eed9" absoluteBounds="6.75, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/HastaneUDataContext/tblDoktor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="95983777-bc03-4b87-90a6-8a4804119ea9" absoluteBounds="6.765, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dba4ffb7-be29-4d86-9d28-b9e96de0b069" absoluteBounds="0.75, 9.5, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/HastaneUDataContext/tblHasta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8ec3fb6c-f3ea-4356-a0fd-bdec6c97766f" absoluteBounds="0.765, 9.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd4484b5-45e8-4cf1-842a-7fd8a7561431" absoluteBounds="6.75, 5.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/HastaneUDataContext/tblKoMorbidite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90098b14-8a3b-4c56-b5e2-869a8aa2b69f" absoluteBounds="6.765, 6.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="39d28af9-7f0b-4598-ae6f-5f23a69fc25d" absoluteBounds="3.5, 7.75, 2, 3.1170068359375014">
+      <DataClassMoniker Name="/HastaneUDataContext/tblOperatif" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1303a6f4-9599-438a-8fdd-c246e5fa142c" absoluteBounds="3.515, 8.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f7200a9-2a5b-45fb-bac4-e069fe065ecd" absoluteBounds="6.75, 7.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/HastaneUDataContext/tblOpTuru" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30961d3a-b993-4067-bf0f-747cebbd6efb" absoluteBounds="6.765, 8.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e7aaaf59-ea1c-43fd-a470-d917046abdd3" absoluteBounds="3.5, 1.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/HastaneUDataContext/tblPatoloji" />
+      <nestedChildShapes>
+        <elementListCompartment Id="562f0f89-32c1-4fd2-b2df-9cb6adbd2451" absoluteBounds="3.515, 2.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20cd92d1-a1c5-4114-9f6d-8d02bd33a715" absoluteBounds="3.5, 4.625, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/HastaneUDataContext/tblTakipVerileri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b95ae961-7331-4305-b4a3-55cce557633c" absoluteBounds="3.515, 5.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ec0229eb-f8d0-4619-aa04-343ab7fe629f" absoluteBounds="3.5, 15.625, 2, 4.0785139973958309">
+      <DataClassMoniker Name="/HastaneUDataContext/tblPosOperatif" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a17fda45-1905-48b6-ae22-259d2a31e9a6" absoluteBounds="3.515, 16.085, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 11.8325512695312); (3.5 : 11.8325512695312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HastaneUDataContext/tblHasta/tblHasta_tblDemog" />
+      <nodes>
+        <classShapeMoniker Id="dba4ffb7-be29-4d86-9d28-b9e96de0b069" />
+        <classShapeMoniker Id="7b907a75-a6f9-4d3b-95d8-4a86bba9f8f7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.1835034179688); (3.5 : 10.1835034179688)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HastaneUDataContext/tblHasta/tblHasta_tblOperatif" />
+      <nodes>
+        <classShapeMoniker Id="dba4ffb7-be29-4d86-9d28-b9e96de0b069" />
+        <classShapeMoniker Id="39d28af9-7f0b-4598-ae6f-5f23a69fc25d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 9.5); (1.75 : 2.82774983723958); (3.5 : 2.82774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HastaneUDataContext/tblHasta/tblHasta_tblPatoloji" />
+      <nodes>
+        <classShapeMoniker Id="dba4ffb7-be29-4d86-9d28-b9e96de0b069" />
+        <classShapeMoniker Id="e7aaaf59-ea1c-43fd-a470-d917046abdd3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 9.5); (2.2812525 : 5.79890055338542); (3.5 : 5.79890055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HastaneUDataContext/tblHasta/tblHasta_tblTakipVerileri" />
+      <nodes>
+        <classShapeMoniker Id="dba4ffb7-be29-4d86-9d28-b9e96de0b069" />
+        <classShapeMoniker Id="20cd92d1-a1c5-4114-9f6d-8d02bd33a715" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 12.0401025390625); (1.75 : 17.6642569986979); (3.5 : 17.6642569986979)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HastaneUDataContext/tblHasta/tblHasta_tblPosOperatif" />
+      <nodes>
+        <classShapeMoniker Id="dba4ffb7-be29-4d86-9d28-b9e96de0b069" />
+        <classShapeMoniker Id="ec0229eb-f8d0-4619-aa04-343ab7fe629f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

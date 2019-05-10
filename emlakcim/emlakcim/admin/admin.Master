@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="emlakcim.admin.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="admin.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 120px;
+            height: 122px;
+        }
+        .auto-style2 {
+            height: 120px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="cerceve">
+            <div class="kafa"></div>
+            <div class="govde">
+                <div class="govdesol"></div>
+                <div class="govdesag">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <p class="auto-style2">
+                            <img alt="ilanekle" class="auto-style1" src="../tema/indir.jpg" /></p>
+                    </asp:ContentPlaceHolder>
+      </div>
+            </div>
+            
+        </div>
+    </form>
+</body>
+</html>

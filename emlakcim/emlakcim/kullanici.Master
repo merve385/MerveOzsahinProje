@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="kullanici.master.cs" Inherits="emlakcim.kullanici" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="kullanici.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="cerceve">
+            <div class="kafa"></div>
+            <div class="talep">
+                <div class="etalep" style="width: 181px"></div>
+            </div>
+            <div class="govde">
+                <div class="govdesol"></div>
+                <div class="govdesag">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        
+                    </asp:ContentPlaceHolder>
+      </div>
+            </div>
+            <div class="alt" style="height: 38px"> </div>
+            
+        </div>
+    </form>
+</body>
+</html>

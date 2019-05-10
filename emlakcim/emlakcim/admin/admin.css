@@ -1,0 +1,61 @@
+﻿body {
+    background-color:#e1e1e1;
+
+}
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}   
+.txt{
+    width:120px;
+    height:24px;
+    border:1px #656363;
+}
+.btn {
+    width: 100px;
+    height: 24px;
+    background-color: #0d55e9;
+    color:#fff;
+   
+}
+    .btn:hover {
+        background-color: #4b83f6;
+    }
+.ddl{
+    width:auto;
+    height:24px;
+    border:1px #656363;
+}
+.cerceve{
+    width:1000px;
+    height:auto;
+    margin:0 auto;
+
+}
+    .cerceve .kafa {
+        width: 1000px;
+        height: 100px;
+        background-color: #0d55e9;
+        float:left;
+    }
+    .cerceve .govde{
+        width:1000px;
+        height:auto;
+        float:left;
+        margin-top:20px;
+    }
+
+        .cerceve .govde .govdesol {
+            width: 270px;
+            height: auto;
+            border: 1px dotted #0d55e9;
+            float:left;
+
+        }
+        .cerceve .govde .govdesag {
+            width: 700px;
+            height: auto;
+            float: right;
+            border: 1px dotted #0d55e9;
+        }
